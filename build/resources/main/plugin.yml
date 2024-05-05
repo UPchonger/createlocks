@@ -1,0 +1,7 @@
+name: createlocks
+version: '1.0-SNAPSHOT'
+main: com.chonger.Createlocks
+commands:
+  createl:
+    description: "查看帮助"
+    permission: createl.createlockshelp
